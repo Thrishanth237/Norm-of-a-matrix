@@ -42,3 +42,6 @@ print("{:.2f}".format(inf_matrix))
 
 
 <img width="1220" height="390" alt="Screenshot 2026-03-19 134510" src="https://github.com/user-attachments/assets/7912f206-b225-4507-ba0b-046d9077a1cb" />
+
+## Result
+Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
